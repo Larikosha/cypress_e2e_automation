@@ -1,0 +1,16 @@
+{
+    "env": {
+        "Site": ""
+    },
+    "defaultCommandTimeout": 30000,
+    "baseUrl": "https://one.test.lightboxre.com/",
+    "testFiles": "**/*.feature"
+}
+
+
+
+
+
+
+
+
